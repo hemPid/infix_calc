@@ -1,0 +1,129 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"C:/Users/iynb2/gcc/lib/gcc/x86_64-w64-mingw32/10.3.0/include",
+						"C:/Users/iynb2/gcc/lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed",
+						"C:/Users/iynb2/gcc/x86_64-w64-mingw32/include"
+					],
+					"linkDirectories" : 
+					[
+						"C:/Users/iynb2/gcc/lib/gcc/x86_64-w64-mingw32/10.3.0",
+						"C:/Users/iynb2/gcc/lib/gcc",
+						"C:/Users/iynb2/gcc/x86_64-w64-mingw32/lib",
+						"C:/Users/iynb2/gcc/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex"
+					]
+				},
+				"path" : "C:/Users/iynb2/gcc/bin/gcc.exe",
+				"version" : "10.3.0"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"C:/Users/iynb2/gcc/include/c++/10.3.0",
+						"C:/Users/iynb2/gcc/include/c++/10.3.0/x86_64-w64-mingw32",
+						"C:/Users/iynb2/gcc/include/c++/10.3.0/backward",
+						"C:/Users/iynb2/gcc/lib/gcc/x86_64-w64-mingw32/10.3.0/include",
+						"C:/Users/iynb2/gcc/lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed",
+						"C:/Users/iynb2/gcc/x86_64-w64-mingw32/include"
+					],
+					"linkDirectories" : 
+					[
+						"C:/Users/iynb2/gcc/lib/gcc/x86_64-w64-mingw32/10.3.0",
+						"C:/Users/iynb2/gcc/lib/gcc",
+						"C:/Users/iynb2/gcc/x86_64-w64-mingw32/lib",
+						"C:/Users/iynb2/gcc/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"stdc++",
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex"
+					]
+				},
+				"path" : "C:/Users/iynb2/gcc/bin/g++.exe",
+				"version" : "10.3.0"
+			},
+			"language" : "CXX",
+			"sourceFileExtensions" : 
+			[
+				"C",
+				"M",
+				"c++",
+				"cc",
+				"cpp",
+				"cxx",
+				"mm",
+				"mpp",
+				"CPP",
+				"ixx",
+				"cppm"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "C:/Users/iynb2/gcc/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

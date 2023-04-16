@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/iynb2/inf_secsem/sem6/build",
+  "command": "C:/Users/iynb2/gcc/bin/g++.exe -Dinfeval_EXPORTS  -g -std=gnu++17 -o CMakeFiles/infeval.dir/calc.cpp.obj -c C:/Users/iynb2/inf_secsem/sem6/calc.cpp",
+  "file": "C:/Users/iynb2/inf_secsem/sem6/calc.cpp",
+  "output": "CMakeFiles/infeval.dir/calc.cpp.obj"
+},
+{
+  "directory": "C:/Users/iynb2/inf_secsem/sem6/build",
+  "command": "C:/Users/iynb2/gcc/bin/g++.exe   -g -std=gnu++17 -o CMakeFiles/test_inf.dir/main.cpp.obj -c C:/Users/iynb2/inf_secsem/sem6/main.cpp",
+  "file": "C:/Users/iynb2/inf_secsem/sem6/main.cpp",
+  "output": "CMakeFiles/test_inf.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/iynb2/inf_secsem/sem6/build",
+  "command": "C:/Users/iynb2/gcc/bin/g++.exe   -g -std=gnu++17 -o CMakeFiles/test_inf.dir/calc.cpp.obj -c C:/Users/iynb2/inf_secsem/sem6/calc.cpp",
+  "file": "C:/Users/iynb2/inf_secsem/sem6/calc.cpp",
+  "output": "CMakeFiles/test_inf.dir/calc.cpp.obj"
+},
+{
+  "directory": "C:/Users/iynb2/inf_secsem/sem6/build",
+  "command": "C:/Users/iynb2/gcc/bin/g++.exe   -g -std=gnu++17 -o CMakeFiles/test_inf.dir/test.cpp.obj -c C:/Users/iynb2/inf_secsem/sem6/test.cpp",
+  "file": "C:/Users/iynb2/inf_secsem/sem6/test.cpp",
+  "output": "CMakeFiles/test_inf.dir/test.cpp.obj"
+}
+]
